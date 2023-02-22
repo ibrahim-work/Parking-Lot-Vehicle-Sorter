@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Date;
-public class Exercise09Class {
+public class ParkingLot_VehicleSorter {
     public static void main(String[] args) {
         try {
             //step1) create a file object to reference the input text file.
